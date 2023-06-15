@@ -37,10 +37,8 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+</p>
 
-[![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 Feel free to fork or star any of my repositories if you find them useful! Enjoy your visit and have a great day! 🚀
