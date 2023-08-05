@@ -1,9 +1,14 @@
 # Hi there! 👋
 
-I'm **Prasad Mhaske**, a aspiring full stack web developer passionate about building web applications. Welcome to my GitHub profile! Here you'll find some of my projects and contributions. Feel free to explore and connect with me.
+I'm **Prasad Mhaske**, an aspiring full-stack web developer passionate about building web applications. Welcome to my GitHub profile! Here you'll find some of my projects and contributions. Feel free to explore and connect with me.
 
 
-## 🔭 Current Projects
+## 🔜 Current Project
+
+- [**ProActiveBlogs**](https://github.com/ProActive44/ProActiveBlogs.git): Working on a personal project In order to apply and practice all the concepts that have learned till now...
+
+
+## 🔭 Projects
 
 - [**Specialized cycle app**](https://github.com/ProActive44/specialized-bike-app): A online cycle store, where you can find all the types of modern bikes.
 - [**TATA1mg**](https://github.com/ProActive44/TATA-1mg-clone): A clone of India's leading & most trusted healthcare platform.
