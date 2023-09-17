@@ -35,7 +35,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 - [CSS-Tricks](https://css-tricks.com/): CSS-Tricks is a great resource for learning CSS and exploring creative techniques.
 
 
-<h3 align="left">Languages and Tools:</h3>
+### <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
