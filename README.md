@@ -38,7 +38,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-css-alt-3521367-2944811.png?f=avif&w=256" alt="css3" width="40" height="40"/>
 <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="javascript" width="40" height="40"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
