@@ -5,7 +5,7 @@ I'm **Prasad Mhaske**, an aspiring full-stack web developer passionate about bui
  
 ## 🔜 Current Project 
  
-- [**BuyCars.com**](https://github.com/ProActive44/Buy_cars_Attryb): Working on a mern project In order to apply and practice all the concepts that have learned till now...
+- [**BuyCars.com**](https://github.com/ProActive44/Buy_cars_Attryb): Working on a mern project In order to apply and practice all the concepts that have learned till now...and trying learn new technologies. 
  
 
 
