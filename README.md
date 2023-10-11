@@ -21,7 +21,7 @@ I'm **Prasad Mhaske**, an aspiring full-stack web developer passionate about bui
 I'm always open to collaborating on interesting projects. If you have an idea or need help with something, feel free to reach out!
 
  
-## 📫 How to Reach Me
+## 📫 How to Reach Me 
 
 - Email: prasadmhaske2001@gmail.com
 - Portfolio: [https://proactive44.github.io](https://ProActive44.github.io)
@@ -51,4 +51,4 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 </p>
 
 
-#### Feel free to fork or star any of my repositories if you find them useful! Enjoy your visit and have a great day! 🚀
+#### Feel free to fork or star any of my repositories if you find them useful! Enjoy your visit and have a great day! 🚀 
