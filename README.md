@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Prasad Mhaske**, an aspiring full-stack web developer passionate about building web applications. Welcome to my GitHub profile! Here you'll find some of my projects and contributions. Feel free to explore and connect with me. 
+I'm **Prasad Mhaske**, an aspiring full-stack web developer passionate about building web applications. Welcome to my GitHub profile! Here you'll find some of my projects and  contributions. Feel free to explore and connect with me. 
 
  
 ## 🔜 Current Project 
