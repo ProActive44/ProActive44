@@ -47,7 +47,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d5/20230715030041%21Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="40" height="40"/> 
-<img src="https://chakra-ui.com/favicon.png" alt="Chakra UI" width="40" height="40"/> 
+<img src="![image](https://github.com/user-attachments/assets/8ab29c7b-dc50-402f-87d9-dcc0219f5645)" alt="Chakra UI" width="40" height="40"/> 
 </p>
 
 
