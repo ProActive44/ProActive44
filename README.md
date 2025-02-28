@@ -37,6 +37,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
+<img src="https://github.com/user-attachments/assets/e995bb5e-6779-43a4-bc04-4e2acd0ace58" alt="Next JS" width="40" height="40"/> 
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="html5" width="40" height="40"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-alt-3521367-2944811.png?f=avif&w=256" alt="css3" width="40" height="40"/>
 <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="javascript" width="40" height="40"/>
