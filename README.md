@@ -1,11 +1,9 @@
 # Hi there! 👋
 
-I'm **Prasad Mhaske**, an aspiring full-stack web developer passionate about building web applications. Welcome to my GitHub profile! Here you'll find some of my projects and  contributions. Feel free to explore and connect with me.  
+I'm **Prasad Mhaske**, an full-stack web developer passionate about building web applications. Welcome to my GitHub profile! Here you'll find some of my projects and contributions. Feel free to explore and connect with me.  
 
  
-## 🔜 Current Project 
- 
-- [**BuyCars.com**](https://github.com/ProActive44/Buy_cars_Attryb): Working on a mern project In order to apply and practice all the concepts that have learned till now...and trying learn new technologies. 
+
  
 
 
@@ -28,11 +26,6 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 - LinkedIn: [Prasad Mhaske](https://www.linkedin.com/in/prasad-mhaske-88a177247)
 
 
-## 📚 My Favorite Resources
-
-- [MDN Web Docs](https://developer.mozilla.org/): MDN provides comprehensive and reliable documentation for web development.
-- [FreeCodeCamp](https://www.freecodecamp.org/): FreeCodeCamp offers a vast collection of coding challenges and tutorials to enhance your skills.
-- [CSS-Tricks](https://css-tricks.com/): CSS-Tricks is a great resource for learning CSS and exploring creative techniques.
 
 
 <h2 align="left">Languages and Tools:</h2>
