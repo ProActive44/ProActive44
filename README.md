@@ -4,7 +4,6 @@ I'm **Prasad Mhaske**, an full-stack web developer passionate about building web
 
  
 
-
 ## 🔭 Recent Projects
 
 - [**AIChatApp**](https://github.com/ProActive44/AIChatApp): AIchatApp is a full-stack real-time chat app with user auth, built for future AI integration.
