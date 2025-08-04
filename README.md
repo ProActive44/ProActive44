@@ -25,7 +25,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2> 
 <p align="left"> 
 <img src="https://github.com/user-attachments/assets/894b7e19-23be-4492-a3bb-deef831ac34f" alt="Next JS" width="40" height="40"/> 
 <img src="https://github.com/user-attachments/assets/c0d70a08-ebf7-4f52-8907-ef0d2eb06c48" alt="TypeScript" width="40" height="40"/> 
