@@ -16,7 +16,7 @@ I'm **Prasad Mhaske**, an full-stack web developer passionate about building web
 I'm always open to collaborating on interesting projects. If you have an idea or need help with something, feel free to reach out!
 
  
-## 📫 How to Reach Me 
+## 📫 How to Reach Me  
 
 - Email: prasadmhaske2001@gmail.com
 - Portfolio: [https://proactive44.github.io](https://ProActive44.github.io)
