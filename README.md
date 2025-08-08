@@ -3,7 +3,7 @@
 I'm **Prasad Mhaske**, an full-stack web developer passionate about building web applications. Welcome to my GitHub profile! Here you'll find some of my projects and contributions. Feel free to explore and connect with me.  
 
      
-  
+   
 ## 🔭 Recent Projects
 
 - [**AIChatApp**](https://github.com/ProActive44/AIChatApp): AIchatApp is a full-stack real-time chat app with user auth, built for future AI integration.
