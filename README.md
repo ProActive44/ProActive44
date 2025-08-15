@@ -24,7 +24,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 - LinkedIn: [Prasad Mhaske](https://www.linkedin.com/in/prasad-mhaske-88a177247)
 
 
-
+ 
 
 <h2 align="left">Languages and Tools:</h2> 
 <p align="left"> 
