@@ -19,7 +19,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 ## 📫 How to Reach Me   
    
 - Email: prasadmhaske2001@gmail.com 
-- Portfolio: [https://portfolio-prasad-mhaskes-projects.vercel.app](https://portfolio-prasad-mhaskes-projects.vercel.app).
+- Portfolio: [https://portfolio-prasad-m.vercel.app](https://portfolio-prasad-m.vercel.app).
 - LinkedIn: [Prasad Mhaske](https://www.linkedin.com/in/prasad-mhaske-88a177247)
 
 
